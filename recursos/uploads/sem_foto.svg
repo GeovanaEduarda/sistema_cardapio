@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" aria-label="Sem foto">
+  <rect width="120" height="120" rx="12" fill="#f3f4f6"/>
+  <circle cx="60" cy="48" r="22" fill="#e5e7eb"/>
+  <ellipse cx="60" cy="108" rx="40" ry="28" fill="#e5e7eb"/>
+</svg>
